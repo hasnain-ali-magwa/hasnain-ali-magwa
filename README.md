@@ -21,11 +21,15 @@
 
 Name              : Hasnain Ali Magwa
 Role              : BCA Student
-Focus             : Fullstack Development
-Learning          : Cybersecurity
-Current Stack     : Python, Flask, Django
-Projects          : CYBERTOOLKIT, StackVerse, ScamAlert
 Location          : Madhya Pradesh, India
+
+Interests:
+→ Cybersecurity
+→ Cloud Security
+→ Web Development
+→ Technology
+→ Music
+→ Gaming
 ```
 
 ## ⚡ Tech Arsenal
@@ -39,7 +43,7 @@ Location          : Madhya Pradesh, India
 ### 🚀 Frameworks & Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,django,bootstrap,jquery" />
+  <img src="https://skillicons.dev/icons?i=flask,django,react,bootstrap,jquery" />
 </p>
 
 ### 🗄️ Databases & Backend Services
@@ -110,12 +114,12 @@ Location          : Madhya Pradesh, India
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack | Live Demo | Repository |
-|----------|-------------|--------|-----------|------------|
-| 💼 Portfolio | Personal Cybersecurity Portfolio Website | HTML, CSS, JS | [Visit](https://hasnain-ali.pages.dev) | [Code](https://github.com/hasnain-ali-magwa) |
-| 🛡️ CYBERTOOLKIT | Cybersecurity Toolkit with multiple security tools | Python, Flask | Coming Soon | Coming Soon |
-| 🌐 StackVerse | Career & Technology Exploration Platform | Flask, JS | Coming Soon | Coming Soon |
-| 🚨 ScamAlert | Scam Awareness & Detection Platform | Flask, Python | Coming Soon | Coming Soon |
+| Project | Description | Stack | Live Demo |
+|----------|-------------|--------|-----------|
+| 💼 Portfolio | Personal Cybersecurity Portfolio Website | HTML, CSS, JS | [Visit](https://hasnain-ali.pages.dev) |
+| 🛡️ CYBERTOOLKIT | Cybersecurity Toolkit with multiple security tools | Python, Flask | Coming Soon |
+| 🌐 StackVerse | Career & Technology Exploration Platform | Flask, JS | Coming Soon |
+| 🚨 ScamAlert | Scam Awareness & Detection Platform | Flask, Python | Coming Soon |
 
 ## 📈 Contribution Activity
 
