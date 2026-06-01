@@ -8,10 +8,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hasnain-ali-magwa&label=Profile%20Views&color=00ff88&style=for-the-badge" />
-
-  <img src="https://img.shields.io/github/followers/hasnain-ali-magwa?label=Followers&style=for-the-badge&color=00ff88" />
-
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-00ff88?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Available-00ff88?style=for-the-badge" />
 </p>
 
 ---
