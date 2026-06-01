@@ -35,103 +35,96 @@
 
 ## ⚡ Tech Arsenal
 
-### 💻 Languages
+<h3 align="center">💻 Programming Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" title="Python" />
-  <img src="https://skillicons.dev/icons?i=c" title="C" />
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-### 🚀 Frameworks & Libraries
+<br>
+
+<h3 align="center">🚀 Frameworks & Libraries</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flask" title="Flask" />
-  <img src="https://skillicons.dev/icons?i=django" title="Django" />
-  <img src="https://skillicons.dev/icons?i=react" title="React" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
-  <img src="https://skillicons.dev/icons?i=jquery" title="jQuery" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-### 🗄️ Databases & Backend Services
+<br>
+
+<h3 align="center">🗄️ Databases</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
-  <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### ☁️ Cloud & Deployment
+<br>
+
+<h3 align="center">☁️ Cloud & Deployment</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cloudflare" title="Cloudflare" />
-  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" />
-  <img src="https://skillicons.dev/icons?i=netlify" title="Netlify" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 </p>
 
+<br>
+
+<h3 align="center">🖥️ Operating Systems</h3>
+
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=render" title="Render" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 </p>
 
-### 🖥️ Operating Systems
+<br>
+
+<h3 align="center">🛠️ Development Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows" title="Windows" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=kali" title="Kali Linux" />
-</p>
+<br>
 
-### 🛠️ Tools & Platforms
+<h3 align="center">🔐 Cybersecurity</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git" title="Git" />
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
-  <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
-  <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
-</p>
-
-### 🔐 Cybersecurity
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" title="Kali Linux" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" title="Burp Suite" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" title="Wireshark" />
-  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge" title="Nmap" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge" title="Metasploit" />
-</p>
-
----
-
-## 📈 GitHub Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasnain-ali-magwa&theme=github_dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hasnain-ali-magwa&theme=github_dark"/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasnain-ali-magwa&theme=github_dark"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Analytics
 
-| Project | Description | Stack | Live Demo |
-|----------|-------------|--------|-----------|
-| 💼 Portfolio | Personal Cybersecurity Portfolio Website | HTML, CSS, JS | [Visit](https://hasnain-ali.pages.dev) |
-| 🛡️ CYBERTOOLKIT | Cybersecurity Toolkit with multiple security tools | Python, Flask | Coming Soon |
-| 🌐 StackVerse | Career & Technology Exploration Platform | Flask, JS | Coming Soon |
-| 🚨 ScamAlert | Scam Awareness & Detection Platform | Flask, Python | Coming Soon |
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasnain-ali-magwa&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hasnain-ali-magwa&theme=github_dark" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasnain-ali-magwa&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hasnain-ali-magwa&theme=github_dark" />
+</p>
 
 ---
 
@@ -148,6 +141,17 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/hasnain-ali-magwa/hasnain-ali-magwa/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack | Live Demo |
+|----------|-------------|--------|-----------|
+| 💼 Portfolio | Personal Cybersecurity Portfolio Website | HTML, CSS, JS | [Visit](https://hasnain-ali.pages.dev) |
+| 🛡️ CYBERTOOLKIT | Cybersecurity Toolkit with multiple security tools | Python, Flask | Coming Soon |
+| 🌐 StackVerse | Career & Technology Exploration Platform | Flask, JS | Coming Soon |
+| 🚨 ScamAlert | Scam Awareness & Detection Platform | Flask, Python | Coming Soon |
 
 ---
 
