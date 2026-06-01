@@ -1,6 +1,6 @@
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║          HASNAIN ALI MAGWA — GITHUB PROFILE README              ║ -->
-<!-- ║   Upload: README.md + glitch-name.svg to YOUR_USERNAME repo     ║ -->
+<!-- ║   Upload: README.md + glitch-name.svg to hasnain-ali-magwa repo     ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░ ANIMATED HEADER WAVE ░░░░░░░░░░░░░░░░░░░░░ -->
@@ -16,14 +16,14 @@
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░ TYPING ANIMATION ░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=720&lines=🔐+Cybersecurity+Enthusiast+%7C+Red+Team+Aspirant;🎯+Future+DRDO+Red+Team+Professional;💻+BCA+Student+%40+Vikram+University%2C+Ujjain;🐍+Python+%7C+Flask+%7C+Django+%7C+Full+Stack;🛡️+Ethical+Hacker+in+Progress+%7C+CTF+Player;🌐+Building+Secure+%26+Scalable+Applications" alt="Typing SVG"/>
+ <img src="https://readme-typing-svg.demolab.com?font=Algerian&weight=900&size=23&pause=1000&color=CA0000&center=true&vCenter=true&width=435&lines=BCA+Student;Cybersecurity+Learner;Python+Fullstack+Developer" alt="Typing SVG" />
 </p>
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░ QUICK BADGES ROW ░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=hasnain-ali-magwa&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile Views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=00ff88&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/hasnain-ali-magwa?style=for-the-badge&color=00ff88&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
   &nbsp;
   <img src="https://img.shields.io/badge/STATUS-Open_to_Collabs-00ff88?style=for-the-badge&labelColor=0d1117" alt="Status"/>
   &nbsp;
@@ -40,15 +40,17 @@
 
 ```python
 class HasnainAliMagwa:
-    name       = "Hasnain Ali Magwa"
-    location   = "Shamgarh, Mandsaur, Madhya Pradesh 🇮🇳"
-    education  = "BCA @ Savita Devi Jaiswal College (Vikram University, Ujjain)"
-    coaching   = "C/C++ | Python | Django — Indore"
-    goal       = "Red Team Professional @ DRDO 🎯"
-    interests  = ["Red Teaming 🔴", "Bug Bounty 💰", "Cloud Security ☁️", "CTF 🏁"]
-    learning   = ["TryHackMe → HackTheBox", "eJPT → CEH → OSCP Path"]
-    portfolio  = "https://hasnain-ali.pages.dev"
-    fun_fact   = "I code by day, hack by night 😈"
+    name = "Hasnain Ali Magwa"
+    education = "BCA Student"
+    location = "Shamgarh, Madhya Pradesh, India"
+    interests = [
+        "Technology",
+        "Cloud Security",
+        "Cybersecurity",
+        "Web Development",
+        "Music",
+        "Gaming"
+    ]
 ```
 
 <br/>
@@ -60,13 +62,13 @@ class HasnainAliMagwa:
 ## 📊 &nbsp;GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasnain-ali-magwa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00ff88&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnain-ali-magwa&layout=compact&hide_border=true&bg_color=0D1117&title_color=00ff88&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideNums=00ff88&dates=c9d1d9&sideLabels=c9d1d9&currStreakNum=ffffff&stroke=00ff8822" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=hasnain-ali-magwa&hide_border=true&background=0D1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideNums=00ff88&dates=c9d1d9&sideLabels=c9d1d9&currStreakNum=ffffff&stroke=00ff8822" alt="GitHub Streak"/>
 </p>
 
 <br/>
@@ -131,8 +133,6 @@ class HasnainAliMagwa:
 |:---|:---|:---|:---:|
 | 🛡️ **CYBERTOOLKIT** | 37+ web-based cybersecurity tools — OSINT, Crypto, Network, Utils | `Flask` `Python` | [Live](#) · [Code](#) |
 | 🌐 **StackVerse** | Career & tech-tool explorer platform for multiple domains | `Flask` `JS` `JSON` | [Live](#) · [Code](#) |
-| 🏥 **SaveGen** | Hospital Management System with token-based auth | `Django` `React` `Bootstrap` | [Live](#) · [Code](#) |
-| 🛒 **NEXVORA** | Hacker-themed E-Commerce with cart, checkout & discount system | `Flask` `CSS` `JS` | [Live](#) · [Code](#) |
 | 💼 **Portfolio** | Personal cybersecurity portfolio — dark theme, matrix effects | `HTML` `CSS` `JS` `Flask` | [Live](https://hasnain-ali.pages.dev) · [Code](#) |
 
 > 💡 **Tip:** Replace each `#` above with your actual GitHub repo links!
@@ -192,7 +192,7 @@ class HasnainAliMagwa:
 ## 📈 &nbsp;Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff8820&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasnain-ali-magwa&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff8820&hide_border=true" width="100%" alt="Activity Graph"/>
 </p>
 
 <br/>
@@ -204,7 +204,7 @@ class HasnainAliMagwa:
 ## 🏆 &nbsp;GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hasnain-ali-magwa&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="Trophies"/>
 </p>
 
 <br/>
@@ -216,7 +216,7 @@ class HasnainAliMagwa:
 ## 🐍 &nbsp;Watch My Contributions Get Eaten
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/hasnain-ali-magwa/hasnain-ali-magwa/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 </p>
 
 <details>
@@ -269,15 +269,15 @@ After pushing, go to **Actions** tab → run **Generate Snake Animation** manual
     <img src="https://img.shields.io/badge/🌐_Portfolio-hasnain--ali.pages.dev-00ff88?style=for-the-badge&labelColor=0d1117" alt="Portfolio"/>
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:hasnainalimagwa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail"/>
   </a>
   &nbsp;
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/hasnain-ali-magwa-908309319/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/hasnain-ali-magwa">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
   </a>
 </p>
@@ -294,44 +294,3 @@ After pushing, go to **Actions** tab → run **Generate Snake Animation** manual
 </p>
 
 ---
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░ QUICK SETUP GUIDE ░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-<details>
-<summary>🛠️ &nbsp;Quick Setup Guide — Read This First!</summary>
-
-<br/>
-
-### Steps to activate this README on your GitHub Profile:
-
-**Step 1 — Create your profile repo**
-> Go to GitHub → New Repository → Name it **exactly** your GitHub username (e.g. `hasnain-ali/hasnain-ali`)
-> Make it **Public** and check "Add a README file"
-
-**Step 2 — Upload both files**
-> Upload `README.md` **AND** `glitch-name.svg` to the **root** of that repo
-
-**Step 3 — Replace ALL placeholders**
-
-| Placeholder | Replace With |
-|:---|:---|
-| `YOUR_USERNAME` | Your actual GitHub username |
-| `YOUR_EMAIL@gmail.com` | Your email address |
-| `YOUR_LINKEDIN_URL` | Your LinkedIn profile URL |
-| `YOUR_HTB_LINK` | Your HackTheBox profile URL |
-| `YOUR_THM_LINK` | Your TryHackMe profile URL |
-| `YOUR_LEETCODE_LINK` | Your LeetCode profile URL |
-| `YOUR_GFG_LINK` | Your GeeksforGeeks profile URL |
-| `[Live](#)` | Replace `#` with actual project live links |
-| `[Code](#)` | Replace `#` with actual GitHub repo links |
-
-**Step 4 — Enable Snake (optional but 🔥)**
-> Create `.github/workflows/snake.yml` with the YAML shown above in the snake section
-> Then go to Actions tab → Run the workflow manually once
-
-**Step 5 — Commit & Push 🚀**
-> Your GitHub profile at `github.com/YOUR_USERNAME` will now show this README!
-
-</details>
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
