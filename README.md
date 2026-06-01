@@ -19,19 +19,19 @@
 ## 🚀 About Me
 
 ```bash
-> whoami
+> 👤 whoami
 
-Name              : Hasnain Ali Magwa
-Role              : BCA Student
-Location          : Madhya Pradesh, India
+👨 Name              : Hasnain Ali Magwa
+🎓 Role              : BCA Student
+📍 Location          : Madhya Pradesh, India
 
-Interests:
-→ Cybersecurity
-→ Cloud Security
-→ Web Development
-→ Technology
-→ Music
-→ Gaming
+💡 Interests:
+→ 🔐 Cybersecurity
+→ ☁️ Cloud Security
+→ 🌐 Web Development
+→ 💻 Technology
+→ 🎵 Music
+→ 🎮 Gaming
 ```
 
 ---
@@ -41,55 +41,74 @@ Interests:
 ### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=c" title="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
 </p>
 
 ### 🚀 Frameworks & Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,django,react,bootstrap,jquery" />
+  <img src="https://skillicons.dev/icons?i=flask" title="Flask" />
+  <img src="https://skillicons.dev/icons?i=django" title="Django" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=jquery" title="jQuery" />
 </p>
 
 ### 🗄️ Databases & Backend Services
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
+  <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" />
 </p>
 
 ### ☁️ Cloud & Deployment
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cloudflare,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" title="Cloudflare" />
+  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" />
+  <img src="https://skillicons.dev/icons?i=netlify" title="Netlify" />
 </p>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=render" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=render" title="Render" />
 </p>
 
 ### 🖥️ Operating Systems
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=windows" title="Windows" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" />
 </p>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=kali" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=kali" title="Kali Linux" />
 </p>
 
 ### 🛠️ Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
 </p>
 
 ### 🔐 Cybersecurity
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" title="Kali Linux" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" title="Burp Suite" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" title="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge" title="Nmap" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge" title="Metasploit" />
 </p>
 
 ---
