@@ -151,7 +151,7 @@
 | 💼 Portfolio | Personal Cybersecurity Portfolio Website | HTML, CSS, JS | [Visit](https://hasnain-ali.pages.dev) |
 | 🛡️ CYBERTOOLKIT | Cybersecurity Toolkit with multiple security tools | Python, Flask | Coming Soon |
 | 🌐 StackVerse | Career & Technology Exploration Platform | Flask, JS | [Visit](https://stackverse-r90t.onrender.com/) |
-| 🚨 ScamAlert | Scam Awareness & Detection Platform | Flask, Python | Coming Soon |
+| 🚨 ScamAlert | Scam Awareness & Detection Platform | Flask, Python | [Visit](https://scamalert-ddi3.onrender.com/) |
 
 ---
 
