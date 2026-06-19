@@ -91,16 +91,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hasnain-ali-magwa/hasnain-ali-magwa/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
-
----
-
-
-
 ## 💻 Coding Profiles
 
 <p align="center">
