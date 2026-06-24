@@ -119,7 +119,7 @@
 
 <p align="center">
 
-<a href="https://hasnain-ali.pages.dev">
+<a href="https://hasnainalimagwa.pages.dev/">
 <img src="https://img.shields.io/badge/Portfolio-00ff88?style=for-the-badge&logo=google-chrome&logoColor=black"/>
 </a>
 
